@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+* {
+margin: 0;
+padding: 0;
+border: 0;
+font-family: "Caprasimo", serif;
+
+}
+
+h1 {
+    background: hsl(288, 100%, 30%);
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    font-weight: 10px;
+    font-size: 40;
+}
